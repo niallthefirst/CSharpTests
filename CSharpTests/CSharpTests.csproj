@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6AD492B-4E91-4B67-B2BB-D421116E0407}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSharpTests</RootNamespace>
+    <AssemblyName>CSharpTests</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdaptorPattern.cs" />
+    <Compile Include="Associations.cs" />
+    <Compile Include="DateTests.cs" />
+    <Compile Include="DecoratorPattern.cs" />
+    <Compile Include="DelegateTest.cs" />
+    <Compile Include="DelegateTest3.cs" />
+    <Compile Include="DelegateTest2.cs" />
+    <Compile Include="DynamicTest.cs" />
+    <Compile Include="ExtensionMethods.cs" />
+    <Compile Include="FactoryPattern.cs" />
+    <Compile Include="FizzBuzz.cs" />
+    <Compile Include="GenericsTest.cs" />
+    <Compile Include="HashTableTest.cs" />
+    <Compile Include="Increment.cs" />
+    <Compile Include="Inheritance.cs" />
+    <Compile Include="InterfaceMultipleInheritance.cs" />
+    <Compile Include="Lambda.cs" />
+    <Compile Include="Numbers.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReferenceTypes.cs" />
+    <Compile Include="SingletonPattern.cs" />
+    <Compile Include="Sort.cs" />
+    <Compile Include="Static.cs" />
+    <Compile Include="StrategyPattern.cs" />
+    <Compile Include="StrategyPattern2.cs" />
+    <Compile Include="StringPermutations.cs" />
+    <Compile Include="StringTests.cs" />
+    <Compile Include="Struct.cs" />
+    <Compile Include="ThreadSafe.cs" />
+    <Compile Include="TypeChecks.cs" />
+    <Compile Include="ValueTypes.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OOP\OOP.csproj">
+      <Project>{294c14fe-db5e-40c2-9164-895ba31ebb12}</Project>
+      <Name>OOP</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

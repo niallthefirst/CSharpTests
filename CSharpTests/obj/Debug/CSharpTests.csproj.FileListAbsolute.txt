@@ -1,0 +1,8 @@
+c:\users\nfallon\documents\visual studio 2013\Projects\CSharpTests\CSharpTests\bin\Debug\CSharpTests.exe.config
+c:\users\nfallon\documents\visual studio 2013\Projects\CSharpTests\CSharpTests\bin\Debug\CSharpTests.exe
+c:\users\nfallon\documents\visual studio 2013\Projects\CSharpTests\CSharpTests\bin\Debug\CSharpTests.pdb
+c:\users\nfallon\documents\visual studio 2013\Projects\CSharpTests\CSharpTests\obj\Debug\CSharpTests.csprojResolveAssemblyReference.cache
+c:\users\nfallon\documents\visual studio 2013\Projects\CSharpTests\CSharpTests\obj\Debug\CSharpTests.exe
+c:\users\nfallon\documents\visual studio 2013\Projects\CSharpTests\CSharpTests\obj\Debug\CSharpTests.pdb
+C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\CSharpTests\bin\Debug\OOP.dll
+C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\CSharpTests\bin\Debug\OOP.pdb
