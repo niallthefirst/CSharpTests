@@ -212,6 +212,31 @@ namespace CSharpTests
             Console.WriteLine("\nGenerics");
             GenericsTest.Run();
 
+            
+
+            Console.WriteLine("\nLazy Initialization");
+            LazyInstantiation.Run();
+
+
+            Console.WriteLine("\nImmutable");
+            Immutable immuatable = new Immutable("my name", 100);
+
+
+            Console.WriteLine("\nFunc and Action");
+            FuncAndActionDelegates.Run();
+
+            Console.WriteLine("\nInheritance override");
+            OverrideTest.Run();
+
+
+
+            Console.WriteLine("\nRecursion Fibbionacci");
+            Recursion.Fibionacci(5, 0, 0);
+
+
+            Console.WriteLine("\nFactorial");
+            Factorial.Run(5);
+
             Console.WriteLine("\nThreadSafe");
             var t1 = new Thread(new ParameterizedThreadStart(ThreadSafe.Run));
             var t2 = new Thread(new ParameterizedThreadStart(ThreadSafe.Run));
@@ -219,7 +244,6 @@ namespace CSharpTests
             t2.Start("Second");
             //t1.Join();The Join method causes the execution to stop until that thread terminates.
             //t2.Join();
-            
 
 
             Console.ReadKey();
