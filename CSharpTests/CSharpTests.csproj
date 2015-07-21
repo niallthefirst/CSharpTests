@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="AdaptorPattern.cs" />
     <Compile Include="Associations.cs" />
+    <Compile Include="DataStructure.cs" />
     <Compile Include="DateTests.cs" />
     <Compile Include="DecoratorPattern.cs" />
     <Compile Include="DelegateTest.cs" />
@@ -85,9 +86,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DeleteNode\DeleteNode.csproj">
+      <Project>{40b977ec-af93-48e3-b8a2-3430ded0fe0e}</Project>
+      <Name>DeleteNode</Name>
+    </ProjectReference>
     <ProjectReference Include="..\OOP\OOP.csproj">
       <Project>{294c14fe-db5e-40c2-9164-895ba31ebb12}</Project>
       <Name>OOP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StolenBreakfastDrone\StolenBreakfastDrone.csproj">
+      <Project>{ba193cdb-a672-4e91-addc-9acba312eef5}</Project>
+      <Name>StolenBreakfastDrone</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

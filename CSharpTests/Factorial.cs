@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CSharpTests
 {
@@ -17,7 +18,12 @@ namespace CSharpTests
         public static void Run(int n)
         {
             var result = Fact(n);
-
+            if (n == 4)
+                Assert.AreEqual(result, 24);
+            if (n == 5)
+                Assert.AreEqual(result, 120);
+            if (n == 6)
+                Assert.AreEqual(result, 720);
             Console.Write(result);
         }
         private static int Fact(int n)

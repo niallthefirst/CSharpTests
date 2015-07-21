@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTestsTests", "CSharpTestsTests\CSharpTestsTests.csproj", "{FC15E4F8-345A-4E84-8446-C4DA44938773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StolenBreakfastDrone", "StolenBreakfastDrone\StolenBreakfastDrone.csproj", "{BA193CDB-A672-4E91-ADDC-9ACBA312EEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNode", "DeleteNode\DeleteNode.csproj", "{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{FC15E4F8-345A-4E84-8446-C4DA44938773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC15E4F8-345A-4E84-8446-C4DA44938773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC15E4F8-345A-4E84-8446-C4DA44938773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA193CDB-A672-4E91-ADDC-9ACBA312EEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA193CDB-A672-4E91-ADDC-9ACBA312EEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA193CDB-A672-4E91-ADDC-9ACBA312EEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA193CDB-A672-4E91-ADDC-9ACBA312EEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

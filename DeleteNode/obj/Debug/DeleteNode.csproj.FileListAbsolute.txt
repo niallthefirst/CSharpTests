@@ -1,0 +1,5 @@
+D:\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharpTests\DeleteNode\bin\Debug\DeleteNode.dll
+D:\Documents\GitHub\CSharpTests\DeleteNode\bin\Debug\DeleteNode.pdb
+D:\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.dll
+D:\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.pdb

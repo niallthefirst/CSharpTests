@@ -1,0 +1,5 @@
+D:\Documents\GitHub\CSharpTests\StolenBreakfastDrone\obj\Debug\StolenBreakfastDrone.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharpTests\StolenBreakfastDrone\bin\Debug\StolenBreakfastDrone.dll
+D:\Documents\GitHub\CSharpTests\StolenBreakfastDrone\bin\Debug\StolenBreakfastDrone.pdb
+D:\Documents\GitHub\CSharpTests\StolenBreakfastDrone\obj\Debug\StolenBreakfastDrone.dll
+D:\Documents\GitHub\CSharpTests\StolenBreakfastDrone\obj\Debug\StolenBreakfastDrone.pdb

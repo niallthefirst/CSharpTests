@@ -7,3 +7,16 @@ C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\CSharpTestsTe
 C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\CSharpTestsTests\obj\Debug\CSharpTestsTests.csprojResolveAssemblyReference.cache
 C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\CSharpTestsTests\obj\Debug\CSharpTestsTests.dll
 C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\CSharpTestsTests\obj\Debug\CSharpTestsTests.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\CSharpTestsTests.dll
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\CSharpTestsTests.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\CSharpTests.exe
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\OOP.dll
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\CSharpTests.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\OOP.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\obj\Debug\CSharpTestsTests.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\obj\Debug\CSharpTestsTests.dll
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\obj\Debug\CSharpTestsTests.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\StolenBreakfastDrone.dll
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\StolenBreakfastDrone.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\DeleteNode.dll
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\DeleteNode.pdb

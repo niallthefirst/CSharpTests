@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using StolenBreakfastDrone;
 
 namespace CSharpTests
 {
@@ -231,11 +232,29 @@ namespace CSharpTests
 
 
             Console.WriteLine("\nRecursion Fibbionacci");
-            Recursion.Fibionacci(5, 0, 0);
+            Recursion.Fibionacci(8, 1, 0);
 
 
             Console.WriteLine("\nFactorial");
-            Factorial.Run(5);
+            Factorial.Run(6);
+
+
+            Console.WriteLine("\nDelivery Drones");
+            var deliverManager = DeliveryManager.Init();
+            var lostDroneId = deliverManager.Find();
+            Console.WriteLine("Lost drones id is {0}", lostDroneId);
+
+
+            Console.WriteLine("\nNode Delete");
+            var nodeManager = DeleteNode.NodeManager.Instance();
+            var deleted = nodeManager.DeleteNode(new DeleteNode.Node() { Value = 'B' });
+            Console.WriteLine("Was node deleted : {0}", deleted);
+
+
+            Console.WriteLine("\nData Structure");
+            DataStructure.Run();
+            
+
 
             Console.WriteLine("\nThreadSafe");
             var t1 = new Thread(new ParameterizedThreadStart(ThreadSafe.Run));
@@ -245,6 +264,8 @@ namespace CSharpTests
             //t1.Join();The Join method causes the execution to stop until that thread terminates.
             //t2.Join();
 
+
+            
 
             Console.ReadKey();
      
