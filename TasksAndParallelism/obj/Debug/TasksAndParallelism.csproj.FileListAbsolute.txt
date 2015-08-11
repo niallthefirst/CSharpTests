@@ -1,0 +1,5 @@
+D:\Documents\GitHub\CSharpTests\TasksAndParallelism\bin\Debug\TasksAndParallelism.dll
+D:\Documents\GitHub\CSharpTests\TasksAndParallelism\bin\Debug\TasksAndParallelism.pdb
+D:\Documents\GitHub\CSharpTests\TasksAndParallelism\obj\Debug\TasksAndParallelism.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CSharpTests\TasksAndParallelism\obj\Debug\TasksAndParallelism.dll
+D:\Documents\GitHub\CSharpTests\TasksAndParallelism\obj\Debug\TasksAndParallelism.pdb

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StolenBreakfastDrone", "Sto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNode", "DeleteNode\DeleteNode.csproj", "{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksAndParallelism", "TasksAndParallelism\TasksAndParallelism.csproj", "{88D48C4C-F604-4218-99B7-C25A086CDF08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B977EC-AF93-48E3-B8A2-3430DED0FE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D48C4C-F604-4218-99B7-C25A086CDF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D48C4C-F604-4218-99B7-C25A086CDF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D48C4C-F604-4218-99B7-C25A086CDF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D48C4C-F604-4218-99B7-C25A086CDF08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

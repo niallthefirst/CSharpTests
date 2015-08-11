@@ -98,6 +98,10 @@
       <Project>{ba193cdb-a672-4e91-addc-9acba312eef5}</Project>
       <Name>StolenBreakfastDrone</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TasksAndParallelism\TasksAndParallelism.csproj">
+      <Project>{88d48c4c-f604-4218-99b7-c25a086cdf08}</Project>
+      <Name>TasksAndParallelism</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

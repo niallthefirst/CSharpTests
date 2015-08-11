@@ -20,3 +20,5 @@ D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\StolenBreakfastDrone.
 D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\StolenBreakfastDrone.pdb
 D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\DeleteNode.dll
 D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\DeleteNode.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\TasksAndParallelism.dll
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\TasksAndParallelism.pdb

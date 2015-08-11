@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using StolenBreakfastDrone;
+using TasksAndParallelism;
 
 namespace CSharpTests
 {
@@ -253,6 +254,10 @@ namespace CSharpTests
 
             Console.WriteLine("\nData Structure");
             DataStructure.Run();
+
+
+            Console.WriteLine("\nTasks and Parallelism");
+            Tasks.Run();
             
 
 
