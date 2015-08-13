@@ -90,6 +90,10 @@
       <Project>{40b977ec-af93-48e3-b8a2-3430ded0fe0e}</Project>
       <Name>DeleteNode</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GetKthNode\GetKthNode.csproj">
+      <Project>{5b776d4f-8686-4c05-85aa-d7a4cc1d7ca8}</Project>
+      <Name>GetKthNode</Name>
+    </ProjectReference>
     <ProjectReference Include="..\OOP\OOP.csproj">
       <Project>{294c14fe-db5e-40c2-9164-895ba31ebb12}</Project>
       <Name>OOP</Name>

@@ -255,6 +255,11 @@ namespace CSharpTests
             Console.WriteLine("\nData Structure");
             DataStructure.Run();
 
+            Console.WriteLine("\nLinkedList Kth Node");
+            GetKthNode.GetKthNode.Run();
+            
+
+
 
             Console.WriteLine("\nTasks and Parallelism");
             Tasks.Run();

@@ -22,3 +22,5 @@ D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\DeleteNode.dll
 D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\DeleteNode.pdb
 D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\TasksAndParallelism.dll
 D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\TasksAndParallelism.pdb
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\GetKthNode.dll
+D:\Documents\GitHub\CSharpTests\CSharpTestsTests\bin\Debug\GetKthNode.pdb
