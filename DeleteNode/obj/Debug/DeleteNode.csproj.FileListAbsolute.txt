@@ -3,3 +3,8 @@ D:\Documents\GitHub\CSharpTests\DeleteNode\bin\Debug\DeleteNode.dll
 D:\Documents\GitHub\CSharpTests\DeleteNode\bin\Debug\DeleteNode.pdb
 D:\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.dll
 D:\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.pdb
+C:\Users\fallonn\Documents\GitHub\CSharpTests\DeleteNode\bin\Debug\DeleteNode.dll
+C:\Users\fallonn\Documents\GitHub\CSharpTests\DeleteNode\bin\Debug\DeleteNode.pdb
+C:\Users\fallonn\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.csprojResolveAssemblyReference.cache
+C:\Users\fallonn\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.dll
+C:\Users\fallonn\Documents\GitHub\CSharpTests\DeleteNode\obj\Debug\DeleteNode.pdb

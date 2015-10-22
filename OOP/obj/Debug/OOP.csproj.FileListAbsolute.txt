@@ -3,3 +3,8 @@ C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\OOP\bin\Debug
 C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\OOP\bin\Debug\OOP.pdb
 C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\OOP\obj\Debug\OOP.dll
 C:\Users\nfallon\Documents\Visual Studio 2013\Projects\CSharpTests\OOP\obj\Debug\OOP.pdb
+C:\Users\fallonn\Documents\GitHub\CSharpTests\OOP\bin\Debug\OOP.dll
+C:\Users\fallonn\Documents\GitHub\CSharpTests\OOP\bin\Debug\OOP.pdb
+C:\Users\fallonn\Documents\GitHub\CSharpTests\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\Users\fallonn\Documents\GitHub\CSharpTests\OOP\obj\Debug\OOP.dll
+C:\Users\fallonn\Documents\GitHub\CSharpTests\OOP\obj\Debug\OOP.pdb

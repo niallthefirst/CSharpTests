@@ -3,3 +3,8 @@ D:\Documents\GitHub\CSharpTests\GetKthNode\bin\Debug\GetKthNode.dll
 D:\Documents\GitHub\CSharpTests\GetKthNode\bin\Debug\GetKthNode.pdb
 D:\Documents\GitHub\CSharpTests\GetKthNode\obj\Debug\GetKthNode.dll
 D:\Documents\GitHub\CSharpTests\GetKthNode\obj\Debug\GetKthNode.pdb
+C:\Users\fallonn\Documents\GitHub\CSharpTests\GetKthNode\bin\Debug\GetKthNode.dll
+C:\Users\fallonn\Documents\GitHub\CSharpTests\GetKthNode\bin\Debug\GetKthNode.pdb
+C:\Users\fallonn\Documents\GitHub\CSharpTests\GetKthNode\obj\Debug\GetKthNode.csprojResolveAssemblyReference.cache
+C:\Users\fallonn\Documents\GitHub\CSharpTests\GetKthNode\obj\Debug\GetKthNode.dll
+C:\Users\fallonn\Documents\GitHub\CSharpTests\GetKthNode\obj\Debug\GetKthNode.pdb

@@ -86,6 +86,8 @@ namespace CSharpTests
             //DynamicTest.HandleException((dynamic)ae);
             DynamicTest.HandleException(e);
 
+            Console.WriteLine("\nDynamicObject");
+            DynamicDictionary.Run();
 
             Console.WriteLine("\nIncrement");
             Increment.Int();
@@ -257,22 +259,24 @@ namespace CSharpTests
 
             Console.WriteLine("\nLinkedList Kth Node");
             GetKthNode.GetKthNode.Run();
+
+
+
+            Console.WriteLine("\nAsync and Await");
+            AsyncAwaitTest.Run();
+
+            //Console.WriteLine("\nTasks and Parallelism");
+            //Tasks.Run();
             
 
 
-
-            Console.WriteLine("\nTasks and Parallelism");
-            Tasks.Run();
-            
-
-
-            Console.WriteLine("\nThreadSafe");
-            var t1 = new Thread(new ParameterizedThreadStart(ThreadSafe.Run));
-            var t2 = new Thread(new ParameterizedThreadStart(ThreadSafe.Run));
-            t1.Start("First");
-            t2.Start("Second");
-            //t1.Join();The Join method causes the execution to stop until that thread terminates.
-            //t2.Join();
+            //Console.WriteLine("\nThreadSafe");
+            //var t1 = new Thread(new ParameterizedThreadStart(ThreadSafe.Run));
+            //var t2 = new Thread(new ParameterizedThreadStart(ThreadSafe.Run));
+            //t1.Start("First");
+            //t2.Start("Second");
+            ////t1.Join();The Join method causes the execution to stop until that thread terminates.
+            ////t2.Join();
 
 
             

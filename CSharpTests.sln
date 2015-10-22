@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTests", "CSharpTests\CSharpTests.csproj", "{A6AD492B-4E91-4B67-B2BB-D421116E0407}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{294C14FE-DB5E-40C2-9164-895BA31EBB12}"
@@ -16,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksAndParallelism", "TasksAndParallelism\TasksAndParallelism.csproj", "{88D48C4C-F604-4218-99B7-C25A086CDF08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetKthNode", "GetKthNode\GetKthNode.csproj", "{5B776D4F-8686-4C05-85AA-D7A4CC1D7CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{C4FA18D1-6435-4DDF-99AA-13207BB27023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +51,10 @@ Global
 		{5B776D4F-8686-4C05-85AA-D7A4CC1D7CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B776D4F-8686-4C05-85AA-D7A4CC1D7CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B776D4F-8686-4C05-85AA-D7A4CC1D7CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FA18D1-6435-4DDF-99AA-13207BB27023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FA18D1-6435-4DDF-99AA-13207BB27023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FA18D1-6435-4DDF-99AA-13207BB27023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FA18D1-6435-4DDF-99AA-13207BB27023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
